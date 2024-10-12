@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the backend for my Literacy App<br>👯 I’m looking to collaborate on Machine learning and AI projects<br>🌱 I’m currently learning machine learning<br>💬 Ask me about my most interesting project<br>⚡ Fun fact I love to eat
+🔭 I’m currently working on an AI dream trip planner<br>👯 I’m looking to collaborate on Machine learning and AI projects<br>🌱 I’m currently learning machine learning<br>💬 Ask me about my most interesting project<br>⚡ Fun fact I love to eat
 
 
 ## 🌐 Socials:
